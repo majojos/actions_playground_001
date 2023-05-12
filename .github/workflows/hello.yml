@@ -1,9 +1,9 @@
-name: CI
+name: Jordans CI
 
 on: [push]
     
 jobs:
-  build:
+  dummy_name_for_the_job:
     runs-on: ubuntu-latest
 
     steps:      
